@@ -4,7 +4,7 @@ import pandas as pd
 import string
 import datetime
 #%% Importación de Datos
-data_file = '..\Data\dirty_data.csv'
+data_file = '..\Data\BD_Dirty.csv'
 dirty = pd.read_csv(data_file, header = 0)
 #%% remover puntuacion
 def remove_punctuation(x):
