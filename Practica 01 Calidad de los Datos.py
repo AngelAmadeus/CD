@@ -5,7 +5,7 @@ import numpy as np
 # Para importar los datos de los accidentes: El archivo se busca en la carpeta en la que esta el
 # documento actual .py ; los .. te mandab una carpeta hacia atras de donde estabas, en seguida ahi 
 # buscas Data/Accidents_2015.csv para el archivo de excel
-dir_file = '../Data/Accidents_2015.csv'
+dir_file = '../Data/BD_Accidents.csv'
 accidents = pd.read_csv(dir_file, header = 0, sep = ',', index_col = None, skip_blank_lines = True)
 #%% Observar Datos
 #accidents.head() # muestra los primeros 5 valores de cada variable para observar
