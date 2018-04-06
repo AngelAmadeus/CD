@@ -5,7 +5,7 @@ import sklearn.metrics as akm
 import matplotlib.pyplot as plt
 import scipy.spatial.distance as sc
 #%% Importación de Datos
-data_file = '..\Data\Accidents_2015.csv'
+data_file = '..\Data\BD_Accidents.csv'
 accidents = pd.read_csv(data_file, header = 0)
 #%%Reporte de Calidad de Datos
 columns = pd.DataFrame(list(accidents.columns.values))
