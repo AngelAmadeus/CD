@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 #%% Importación de Datos
-dir_file = '../Data/Accidents_2015.csv'
+dir_file = '../Data/BD_Accidents.csv'
 accidents = pd.read_csv(dir_file, header = 0, sep = ',', index_col = None, skip_blank_lines = True)
 #%% Reportes predeterminados de Pandas
 quick_report1 = pd.DataFrame(accidents.describe().transpose())
