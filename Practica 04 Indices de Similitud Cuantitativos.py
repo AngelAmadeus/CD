@@ -5,7 +5,7 @@ import sklearn.metrics as akm
 import matplotlib.pyplot as plt
 import scipy.spatial.distance as sc
 #%% Importación de Datos
-data_file = '..\Data\Contaminacion_2015.xlsx'
+data_file = '..\Data\BD_Contaminacion.xlsx'
 #para abrir una pestaña en particular
 data_Atemajac = pd.read_excel(data_file, header = 0, sheetname='Atemajac')
 #%%Borrar todas las filas que tengan "nan"
