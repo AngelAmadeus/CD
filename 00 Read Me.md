@@ -1,4 +1,4 @@
-# Obtencion,-Limpieza,-Analisis,-Preprocesamiento,-Seleccion-de-Caracteristicas-de-Datos-para-Modelado
+# Obtencion, Limpieza, Analisis, Preprocesamiento, Seleccion de Caracteristicas de Datos para Modelado
 Importación de una base de datos
 Analisis de calidad de los datos
 Limpieza de una base de datos
