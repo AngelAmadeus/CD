@@ -1,4 +1,4 @@
-#Tarea 4: Algoritmos de Clustering
+#Practica 7 Algoritmos de Clustering
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
