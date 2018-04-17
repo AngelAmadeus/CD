@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from scipy.cluster import hierarchy
 from sklearn.cluster import KMeans
 #%% Importación de Datos
-dir_file = '../Data/BD_Algoritmos_de_clustering.csv'
+dir_file = '../Data/BD_Algoritmos_de_Clustering.csv'
 data = pd.read_csv(dir_file, header = 0)
 #%% Aplicar clustering jerarquico
 Z = hierarchy.linkage(data, method='complete', metric='euclidean')
