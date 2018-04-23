@@ -1,4 +1,4 @@
-#Practica 11: Compresion de Datos - Principal Component Analisis
+#Practica 8: Compresion de Datos - Principal Component Analisis
 import numpy as np
 import matplotlib.pyplot as plt
 #%%Proponer datos
