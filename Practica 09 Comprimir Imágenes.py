@@ -1,4 +1,4 @@
-#Práctica 12: Comprimir Imágenes
+#Práctica 9: Comprimir Imágenes
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
