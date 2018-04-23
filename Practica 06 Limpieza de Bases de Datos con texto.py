@@ -1,4 +1,4 @@
-#Practica 6: Limpieza en textos
+#Practica 6: Limpieza de Bases de Datos con texto
 import numpy as np
 import pandas as pd
 import string
