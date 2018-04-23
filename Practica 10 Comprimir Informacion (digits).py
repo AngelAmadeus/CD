@@ -1,4 +1,4 @@
-#Práctica 13: Comprimir Informacion (Digits)
+#Práctica 10: Comprimir Informacion (Digits)
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import datasets
