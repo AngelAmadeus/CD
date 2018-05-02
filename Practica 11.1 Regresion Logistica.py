@@ -1,11 +1,11 @@
-#Practica 14: Regresión Logística 1
+#Practica 11.1: Regresión Logística
 import numpy as np
 import pandas as pd
 import scipy.optimize as opt
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import PolynomialFeatures
 #%% Importación de Datos
-data_file = '../Data/ex2data1.txt'
+data_file = '../Data/BD_LogReg_SVM.txt'
 data = pd.read_csv(data_file,header=None)
 #%%Visualización de Datos
 X = data.iloc[:,0:2]
