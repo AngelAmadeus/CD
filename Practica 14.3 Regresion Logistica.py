@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn import linear_model
 from sklearn.preprocessing import PolynomialFeatures
 #%%Importación de Datos
-data=pd.read_csv('../Data/ex2data2.txt',header=None)
+data=pd.read_csv('../Data/BD_LogReg_SVM.txt',header=None)
 X=data.iloc[:,0:2]
 Y=data.iloc[:,2]
 plt.scatter(X[0],X[1],c=Y)
