@@ -1,4 +1,4 @@
-# Practica 15: Support Vector Machine
+# Practica 12.1: Support Vector Machine
 import numpy as np
 from sklearn import svm
 import matplotlib.pyplot as plt
