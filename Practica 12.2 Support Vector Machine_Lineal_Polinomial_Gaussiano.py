@@ -1,11 +1,11 @@
-# Practica 15: Support Vector Machine
+# Practica 12.2: Support Vector Machine
 import numpy as np
 import pandas as pd
 from sklearn import svm
 import matplotlib.pyplot as plt
 from sklearn.metrics import (precision_score, recall_score, f1_score, accuracy_score)
 #%%Importación de datos
-data=pd.read_csv('../Data/ex2data2.txt',header=None)
+data=pd.read_csv('../Data/BD_LogReg_SVM.txt',header=None)
 X=data.iloc[:,0:2]
 Y=data.iloc[:,2]
 #%%Crear modelo de SVM: Lineal
