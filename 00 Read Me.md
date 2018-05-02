@@ -1,16 +1,17 @@
 # Obtencion, Limpieza, Analisis, Preprocesamiento, Seleccion de Caracteristicas de Datos para Modelado Supervisado y No Supervisado
-Contiene # pequeñas bases de datos correspondientes a los códigos.
+Contiene 5 bases de datos correspondientes a los códigos.
 PRACTICAS:
-
-
-
-Importación de una base de datos
-Analisis de calidad de los datos
-Limpieza de una base de datos
-Consulta de información a una base de datos
-Calculo de distintos indices de similitud entre variables o datos
-
-
-
-
-
+1.- Analisis de calidad de los datos
+2.- Consultas a bases de datos
+3.- Calculo de similitud entre 2 datos binarios
+4.- Indices de similitud indices de similitud entre variables o datos
+5.- Variables dummy
+6.- Limpieza de una base de datos de texto
+7.- Algoritmos de Clustering
+8.- Compresion de Datos
+9.- Compreson de Imágenes
+10.- Compresion de Información (Digits)
+11.- Regresion Logistica
+12.- Support Vector Machine
+CARPETAS
+1.- Twitter Data Mining
