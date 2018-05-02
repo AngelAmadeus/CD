@@ -3,7 +3,7 @@ Contiene 5 bases de datos correspondientes a los códigos.
 PRACTICAS:
 1.- Analisis de calidad de los datos
 2.- Consultas a bases de datos
-3.- Calculo de similitud entre 2 datos binarios
+3.- Calculo de similitud entre datos binarios
 4.- Indices de similitud indices de similitud entre variables o datos
 5.- Variables dummy
 6.- Limpieza de una base de datos de texto
