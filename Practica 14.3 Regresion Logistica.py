@@ -1,4 +1,4 @@
-#Practica 14: Regresión Logística 3
+#Practica 11.3: Regresión Logística
 import numpy as np
 import pandas as pd
 import sklearn.metrics as sk
